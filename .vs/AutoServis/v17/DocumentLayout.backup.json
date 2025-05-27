@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\controllers\\serviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\controllers\\serviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\nova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\nova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\models\\narudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\models\\narudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\potvrdi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\potvrdi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\uredi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\uredi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\narudzbezapotvrdu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\narudzbezapotvrdu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,16 +19,28 @@
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\potvrdi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\potvrdi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\popis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\popis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\nova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\nova.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\narudzbezapotvrdu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\narudzbezapotvrdu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\mojenarudzbe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -73,22 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\servis\\filtriraj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\servis\\filtriraj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\korisnik\\registracija.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\korisnik\\registracija.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\korisnik\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\korisnik\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\korisnik\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\korisnik\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,6 +71,10 @@
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\models\\narudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\models\\narudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -119,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\models\\bazacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\migrations\\bazacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\migrations\\bazacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\migrations\\20250526185840_fixnullablefieldsinnarudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\migrations\\20250526185840_fixnullablefieldsinnarudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\migrations\\20250515095450_dodavanjevrsteuslugeicijene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\migrations\\20250515095450_dodavanjevrsteuslugeicijene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\controllers\\serviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\controllers\\serviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,6 +101,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\korisnik\\registracija.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\korisnik\\registracija.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\korisnik\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\korisnik\\potvrda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\korisnik\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\korisnik\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\migrations\\bazacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\migrations\\bazacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\migrations\\20250526185840_fixnullablefieldsinnarudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\migrations\\20250526185840_fixnullablefieldsinnarudzbaservisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|c:\\users\\korisnik\\source\\repos\\autoservis\\autoservis\\migrations\\20250515095450_dodavanjevrsteuslugeicijene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54D3FB2-DA7E-45FD-866B-59E3A431E2A6}|AutoServis\\AutoServis.csproj|solutionrelative:autoservis\\migrations\\20250515095450_dodavanjevrsteuslugeicijene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,120 +150,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Potvrdi.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Potvrdi.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Potvrdi.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Potvrdi.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Servis\\Potvrdi.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwDEAAAATAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Popis.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Popis.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Popis.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Popis.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Servis\\Popis.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:23:14.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NarudzbaServisa.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\NarudzbaServisa.cs",
-              "RelativeDocumentMoniker": "AutoServis\\Models\\NarudzbaServisa.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\NarudzbaServisa.cs",
-              "RelativeToolTip": "AutoServis\\Models\\NarudzbaServisa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:52:13.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServisController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\ServisController.cs",
-              "RelativeDocumentMoniker": "AutoServis\\Controllers\\ServisController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\ServisController.cs",
-              "RelativeToolTip": "AutoServis\\Controllers\\ServisController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:01:04.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T21:30:48.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Program.cs",
-              "RelativeDocumentMoniker": "AutoServis\\Program.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Program.cs",
-              "RelativeToolTip": "AutoServis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T20:51:19.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\appsettings.json",
-              "RelativeDocumentMoniker": "AutoServis\\appsettings.json",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\appsettings.json",
-              "RelativeToolTip": "AutoServis\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T20:50:48.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T20:50:39.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T20:50:34.068Z"
+              "WhenOpened": "2025-05-26T14:02:16.381Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Nova.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Nova.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Nova.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Nova.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Servis\\Nova.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T19:55:20.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Potvrda.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Potvrda.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Potvrda.cshtml",
@@ -275,43 +178,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NarudzbeZaPotvrdu.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Potvrdi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Potvrdi.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Potvrdi.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Potvrdi.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Servis\\Potvrdi.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T21:01:06.545Z"
+              "WhenOpened": "2025-05-26T14:23:14.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Uredi.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Uredi.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Uredi.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Uredi.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Servis\\Uredi.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T15:08:11.341Z"
+              "WhenOpened": "2025-05-26T15:08:11.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T20:50:12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -323,139 +215,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T21:30:48.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T20:50:34.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T20:50:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nova.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Nova.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Nova.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Nova.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Servis\\Nova.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T19:55:20.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NarudzbeZaPotvrdu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Servis\\NarudzbeZaPotvrdu.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T21:01:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MojeNarudzbe.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\MojeNarudzbe.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\MojeNarudzbe.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\MojeNarudzbe.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Servis\\MojeNarudzbe.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T09:23:13.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Popis.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Popis.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Popis.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Popis.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Servis\\Popis.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:02:16.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\List.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\List.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\List.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Servis\\List.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T13:25:13.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "Filtriraj.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Filtriraj.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Servis\\Filtriraj.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Servis\\Filtriraj.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Servis\\Filtriraj.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAADwv00AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T11:23:44.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Registracija.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Registracija.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Korisnik\\Registracija.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Registracija.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Korisnik\\Registracija.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T13:22:29.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Potvrda.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T13:16:57.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Login.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Korisnik\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Login.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Korisnik\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T13:12:02.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "AutoServis\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "AutoServis\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:01:45.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvy4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T12:52:18.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 14,
               "Title": "Uredi.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Admin\\Uredi.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Admin\\Uredi.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Admin\\Uredi.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Admin\\Uredi.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T08:22:29.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 15,
               "Title": "PopisKorisnika.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Admin\\PopisKorisnika.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Admin\\PopisKorisnika.cshtml",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Admin\\PopisKorisnika.cshtml",
               "RelativeToolTip": "AutoServis\\Views\\Admin\\PopisKorisnika.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T08:01:58.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 16,
               "Title": "login.cshtml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Admin\\login.cshtml",
               "RelativeDocumentMoniker": "AutoServis\\Views\\Admin\\login.cshtml",
@@ -467,7 +359,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 17,
+              "Title": "NarudzbaServisa.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\NarudzbaServisa.cs",
+              "RelativeDocumentMoniker": "AutoServis\\Models\\NarudzbaServisa.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\NarudzbaServisa.cs",
+              "RelativeToolTip": "AutoServis\\Models\\NarudzbaServisa.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:52:13.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Korisnik.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\Korisnik.cs",
               "RelativeDocumentMoniker": "AutoServis\\Models\\Korisnik.cs",
@@ -479,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 19,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "AutoServis\\Models\\ErrorViewModel.cs",
@@ -491,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 20,
               "Title": "BazaContext.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Models\\BazaContext.cs",
               "RelativeDocumentMoniker": "AutoServis\\Models\\BazaContext.cs",
@@ -503,7 +407,139 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServisController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\ServisController.cs",
+              "RelativeDocumentMoniker": "AutoServis\\Controllers\\ServisController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\ServisController.cs",
+              "RelativeToolTip": "AutoServis\\Controllers\\ServisController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAiwGUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:01:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KorisnikController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\KorisnikController.cs",
+              "RelativeDocumentMoniker": "AutoServis\\Controllers\\KorisnikController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\KorisnikController.cs",
+              "RelativeToolTip": "AutoServis\\Controllers\\KorisnikController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv1UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:00:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AutoServis\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AutoServis\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:00:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AutoServis\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AutoServis\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv38AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:40:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\appsettings.json",
+              "RelativeDocumentMoniker": "AutoServis\\appsettings.json",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\appsettings.json",
+              "RelativeToolTip": "AutoServis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T20:50:48.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Program.cs",
+              "RelativeDocumentMoniker": "AutoServis\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Program.cs",
+              "RelativeToolTip": "AutoServis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:51:19.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T20:50:12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Registracija.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Registracija.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Korisnik\\Registracija.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Registracija.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Korisnik\\Registracija.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:22:29.293Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 29,
+              "Title": "Potvrda.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Korisnik\\Potvrda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:16:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Login.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Korisnik\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Korisnik\\Login.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Korisnik\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:12:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AutoServis\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AutoServis\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:01:45.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "BazaContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Migrations\\BazaContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "AutoServis\\Migrations\\BazaContextModelSnapshot.cs",
@@ -515,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "20250526185840_FixNullableFieldsInNarudzbaServisa.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Migrations\\20250526185840_FixNullableFieldsInNarudzbaServisa.cs",
               "RelativeDocumentMoniker": "AutoServis\\Migrations\\20250526185840_FixNullableFieldsInNarudzbaServisa.cs",
@@ -527,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "20250515095450_DodavanjeVrsteUslugeICijene.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Migrations\\20250515095450_DodavanjeVrsteUslugeICijene.cs",
               "RelativeDocumentMoniker": "AutoServis\\Migrations\\20250515095450_DodavanjeVrsteUslugeICijene.cs",
@@ -536,42 +572,6 @@
               "ViewState": "AgIAAAIAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T09:54:50.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "KorisnikController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\KorisnikController.cs",
-              "RelativeDocumentMoniker": "AutoServis\\Controllers\\KorisnikController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\KorisnikController.cs",
-              "RelativeToolTip": "AutoServis\\Controllers\\KorisnikController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAswFUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:00:56.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AutoServis\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AutoServis\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:00:52.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "AutoServis\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\AutoServis\\AutoServis\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "AutoServis\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswH8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:40:47.886Z"
             }
           ]
         }

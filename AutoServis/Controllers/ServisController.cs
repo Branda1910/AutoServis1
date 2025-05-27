@@ -80,7 +80,7 @@ namespace AutoServis.Controllers
         {
             var narudzba = _context.NarudzbeServisa.FirstOrDefault(n => n.Id == id);
             if (narudzba == null) return NotFound();
-            return View(narudzba); // View mora biti Potvrdi.cshtml
+            return View(narudzba);
         }
 
         [HttpPost]
@@ -89,17 +89,17 @@ namespace AutoServis.Controllers
         {
             Console.WriteLine(">>> POZVAN POST Potvrdi");
 
-            // Učitavamo postojeću narudžbu
+            
             var postojeca = _context.NarudzbeServisa.FirstOrDefault(n => n.Id == narudzba.Id);
             if (postojeca == null) return NotFound();
 
-            // Dodaj podatke koji NEDOSTAJU u formi, ali su REQUIRED
+            
             narudzba.OpisProblema = postojeca.OpisProblema;
             narudzba.EmailKorisnika = postojeca.EmailKorisnika;
             narudzba.PredlozeniDatum = postojeca.PredlozeniDatum;
             narudzba.DatumNarudzbe = postojeca.DatumNarudzbe;
 
-            // Makni greške iz ModelState za te fieldove
+           
             ModelState.Remove("OpisProblema");
             ModelState.Remove("EmailKorisnika");
             ModelState.Remove("PredlozeniDatum");
@@ -116,7 +116,7 @@ namespace AutoServis.Controllers
                 return View("Potvrdi", narudzba);
             }
 
-            // Spremi potvrdu
+           
             postojeca.VrstaUsluge = narudzba.VrstaUsluge;
             postojeca.Cijena = narudzba.Cijena;
             postojeca.PotvrdjeniDatum = narudzba.PotvrdjeniDatum;

@@ -28,6 +28,6 @@ namespace AutoServis.Models
         public decimal Cijena { get; set; } = 0;
 
         [DataType(DataType.DateTime)]
-        public DateTime? DatumNarudzbe { get; set; } // ✅ nullable radi sigurnosti s postojećim redovima
+        public DateTime? DatumNarudzbe { get; set; } 
     }
 }
