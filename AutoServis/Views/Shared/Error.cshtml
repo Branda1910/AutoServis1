@@ -1,0 +1,38 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Greška";
+    Layout = "_Layout";
+}
+
+<div class="container vh-100 d-flex justify-content-center align-items-center">
+    <div class="card border-0 shadow-lg rounded-3" style="max-width: 600px; width: 100%;">
+        <div class="card-header bg-light text-center py-4">
+            <i class="bi bi-exclamation-triangle-fill fs-1 text-danger mb-2"></i>
+            <h2 class="fw-bold mb-1">Došlo je do greške</h2>
+            <p class="text-muted mb-0">Žao nam je, nešto je pošlo po zlu.</p>
+        </div>
+        <div class="card-body p-4">
+            @if (Model.ShowRequestId)
+            {
+                <div class="mb-3">
+                    <strong>ID zahtjeva:</strong> <code>@Model.RequestId</code>
+                </div>
+            }
+            <div class="alert alert-warning" role="alert">
+                <p class="mb-0">Molimo pokušajte ponovno ili se obratite podršci.</p>
+            </div>
+            <div class="text-end">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary px-4 shadow-sm">
+                    <i class="bi bi-house-door-fill me-2"></i> Početna
+                </a>
+            </div>
+        </div>
+        <div class="card-footer bg-light text-center small text-muted">
+            @if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Development")
+            {
+                <p class="mb-1">Prikaz detalja greške moguće je samo u razvojnom okruženju.</p>
+                <p class="mb-0"><strong>Razvojno okruženje nije omogućeno u produkciji!</strong></p>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AutoServis
+build_property.RootNamespace = AutoServis
+build_property.ProjectDir = C:\Users\Korisnik\source\repos\AutoServis\AutoServis\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Korisnik\source\repos\AutoServis\AutoServis
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Admin/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Admin/PopisKorisnika.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUG9waXNLb3Jpc25pa2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Admin/Uredi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXJlZGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Korisnik/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Korisnik/Potvrda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcUG90dnJkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Korisnik/Registracija.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcUmVnaXN0cmFjaWphLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/Filtriraj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXEZpbHRyaXJhai5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/MojeNarudzbe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXE1vamVOYXJ1ZHpiZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/NarudzbeZaPotvrdu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXE5hcnVkemJlWmFQb3R2cmR1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/Nova.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXE5vdmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/Popis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFBvcGlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/Potvrda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFBvdHZyZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/Potvrdi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFBvdHZyZGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Servis/Uredi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFVyZWRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Korisnik/source/repos/AutoServis/AutoServis/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4tjwzewijt

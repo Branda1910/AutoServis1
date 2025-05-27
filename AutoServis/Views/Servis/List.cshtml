@@ -1,0 +1,52 @@
+﻿@model List<AutoServis.Models.NarudzbaServisa>
+@{
+    ViewData["Title"] = "Moje narudžbe";
+    Layout = "_Layout";
+    var email = ViewBag.Email as string;
+}
+
+<div class="container py-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-white d-flex align-items-center">
+            <i class="bi bi-list-check fs-2 text-primary me-3"></i>
+            <h3 class="mb-0">Moje narudžbe za: <span class="text-secondary">@email</span></h3>
+        </div>
+        <div class="card-body">
+            @if (!Model.Any())
+            {
+                <div class="alert alert-info mb-0">Nemate nijednu narudžbu.</div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped mb-0">
+                        <thead class="table-light">
+                            <tr>
+                                <th>#</th>
+                                <th>Opis problema</th>
+                                <th>Predloženi datum</th>
+                                <th>Status</th>
+                                <th>Potvrđeni termin</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var n in Model)
+                            {
+                                <tr>
+                                    <td>@n.Id</td>
+                                    <td>@n.OpisProblema</td>
+                                    <td>@n.PredlozeniDatum.ToShortDateString()</td>
+                                    <td>@n.Status</td>
+                                    <td>@(n.PotvrdjeniDatum?.ToShortDateString() ?? "-")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="card-footer text-muted text-end">
+                    Ukupno narudžbi: @Model.Count
+                </div>
+            }
+        </div>
+    </div>
+</div>

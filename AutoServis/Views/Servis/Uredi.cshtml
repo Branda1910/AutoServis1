@@ -1,0 +1,52 @@
+﻿@model AutoServis.Models.NarudzbaServisa
+
+@{
+    ViewData["Title"] = "Potvrda narudžbe";
+    Layout = "_Layout";
+}
+
+<div class="container vh-100 d-flex justify-content-center align-items-center" style="background-color: #eef3f7;">
+    <div class="card border-0 shadow-lg rounded-3" style="max-width: 540px; width: 100%;">
+        <div class="card-header bg-white text-center py-4">
+            <i class="bi bi-clipboard-check fs-1 text-success mb-2"></i>
+            <h3 class="fw-bold mb-0">Potvrdi narudžbu br. @Model.Id</h3>
+        </div>
+        <div class="card-body p-4 bg-white">
+            <form asp-action="Potvrdi" method="post">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-floating mb-4">
+                    <input asp-for="VrstaUsluge" class="form-control" placeholder="Vrsta usluge" />
+                    <label asp-for="VrstaUsluge">Vrsta usluge</label>
+                    <span asp-validation-for="VrstaUsluge" class="text-danger small"></span>
+                </div>
+
+                <div class="form-floating mb-4">
+                    <input asp-for="Cijena" type="number" step="0.01" class="form-control" placeholder="Cijena (€)" />
+                    <label asp-for="Cijena">Cijena (€)</label>
+                    <span asp-validation-for="Cijena" class="text-danger small"></span>
+                </div>
+
+                <div class="form-floating mb-4">
+                    <input asp-for="PotvrdjeniDatum" type="date" class="form-control" placeholder="Datum potvrde" />
+                    <label asp-for="PotvrdjeniDatum">Datum potvrde</label>
+                    <span asp-validation-for="PotvrdjeniDatum" class="text-danger small"></span>
+                </div>
+
+                <div class="d-flex justify-content-end">
+                    <a asp-action="NarudzbeZaPotvrdu" class="btn btn-outline-secondary me-2 px-4 shadow-sm">
+                        <i class="bi bi-arrow-left-circle me-1"></i> Natrag
+                    </a>
+                    <button type="submit" class="btn btn-success px-4 shadow-sm">
+                        <i class="bi bi-check-lg me-1"></i> Potvrdi
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+}

@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Prijava";
+    Layout = "_Layout";
+}
+
+<div class="container vh-100 d-flex justify-content-center align-items-center">
+    <div class="card shadow-sm mx-auto" style="max-width: 400px; width: 100%;">
+        <div class="card-body">
+            <div class="text-center mb-4">
+                <i class="bi bi-person-lock fs-1 text-primary"></i>
+                <h3 class="card-title mt-2">Prijava korisnika</h3>
+                <p class="text-muted">Unesite svoje podatke za pristup</p>
+            </div>
+            <form asp-action="Login" method="post" novalidate>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input id="email" name="email" type="email" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="lozinka" class="form-label">Lozinka</label>
+                    <input id="lozinka" name="lozinka" type="password" class="form-control" required />
+                </div>
+
+                @if (ViewBag.Greska != null)
+                {
+                    <div class="alert alert-danger mt-3" role="alert">@ViewBag.Greska</div>
+                }
+
+                <div class="d-grid mt-4">
+                    <button type="submit" class="btn btn-primary">Prijavi se</button>
+                </div>
+            </form>
+        </div>
+        <div class="card-footer text-center">
+            <small class="text-muted">Nemate račun? <a asp-controller="Korisnik" asp-action="Registracija">Registrirajte se</a></small>
+        </div>
+    </div>
+</div>

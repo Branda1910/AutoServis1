@@ -1,0 +1,54 @@
+﻿@model AutoServis.Models.NarudzbaServisa
+
+@{
+    ViewData["Title"] = "Nova narudžba servisa";
+    Layout = "_Layout";
+    var email = ViewBag.Email as string;
+}
+
+<div class="container vh-100 d-flex justify-content-center align-items-center" style="background-color: #eef3f7;">
+    <div class="card border-0 shadow-lg rounded-3" style="max-width: 600px; width: 100%;">
+        <div class="card-header bg-white text-center py-4">
+            <i class="bi bi-tools fs-1 text-primary mb-2"></i>
+            <h3 class="fw-bold mb-0">Nova narudžba servisa</h3>
+        </div>
+
+        <!-- Dodani gumb za Moje narudžbe -->
+        <div class="px-4 pt-3 text-end">
+            <a class="btn btn-outline-primary btn-sm" asp-controller="Servis" asp-action="MojeNarudzbe" asp-route-email="@email">
+                <i class="bi bi-list-check me-1"></i> Moje narudžbe
+            </a>
+        </div>
+
+        <div class="card-body p-4 bg-white">
+            <form asp-action="Nova" method="post">
+                @Html.AntiForgeryToken()
+
+                <input type="hidden" asp-for="EmailKorisnika" value="@email" />
+
+                <div class="form-floating mb-4">
+                    <textarea asp-for="OpisProblema" class="form-control" placeholder="Opis problema" style="height: 100px;"></textarea>
+                    <label asp-for="OpisProblema">Opis problema</label>
+                    <span asp-validation-for="OpisProblema" class="text-danger small"></span>
+                </div>
+
+                <div class="form-floating mb-4">
+                    <input asp-for="PredlozeniDatum" type="date" class="form-control" placeholder="Predloženi datum" />
+                    <label asp-for="PredlozeniDatum">Predloženi datum</label>
+                    <span asp-validation-for="PredlozeniDatum" class="text-danger small"></span>
+                </div>
+
+                <div class="d-flex justify-content-end">
+                    <button type="submit" class="btn btn-primary px-4 shadow-sm">
+                        <i class="bi bi-send-check me-1"></i> Pošalji zahtjev
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+}

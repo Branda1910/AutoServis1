@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Zahtjev poslan";
+    Layout = "_Layout";
+}
+
+<div class="container vh-100 d-flex justify-content-center align-items-center">
+    <div class="card shadow-sm mx-auto" style="max-width: 500px; width: 100%;">
+        <div class="card-body text-center py-5">
+            <i class="bi bi-envelope-check fs-1 text-success mb-3"></i>
+            <h3 class="card-title mb-3">Zahtjev je uspješno poslan</h3>
+            <p class="card-text text-muted mb-4">Hvala na prijavi! Naš tim će uskoro pregledati zahtjev i kontaktirati vas e-mailom.</p>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-success">Na početnu</a>
+        </div>
+    </div>
+</div>

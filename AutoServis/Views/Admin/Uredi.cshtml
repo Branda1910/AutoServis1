@@ -1,0 +1,55 @@
+﻿@model AutoServis.Models.Korisnik
+@{
+    ViewData["Title"] = "Uredi korisnika";
+    Layout = "_Layout";
+}
+
+<div class="container py-4">
+    <div class="card shadow-sm mx-auto" style="max-width: 600px;">
+        <div class="card-header bg-white d-flex align-items-center">
+            <i class="bi bi-pencil-square fs-2 text-primary me-3"></i>
+            <h4 class="mb-0">Uredi korisnika</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Uredi" method="post" novalidate>
+                <input type="hidden" asp-for="Id" />
+
+                <div class="mb-3">
+                    <label asp-for="Ime" class="form-label"></label>
+                    <input asp-for="Ime" class="form-control" />
+                    <span asp-validation-for="Ime" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Prezime" class="form-label"></label>
+                    <input asp-for="Prezime" class="form-control" />
+                    <span asp-validation-for="Prezime" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Lozinka" class="form-label"></label>
+                    <input asp-for="Lozinka" class="form-control" />
+                    <span asp-validation-for="Lozinka" class="text-danger"></span>
+                </div>
+
+                <div class="form-check mb-4">
+                    <input asp-for="Aktiviran" class="form-check-input" id="Aktiviran" />
+                    <label asp-for="Aktiviran" class="form-check-label" for="Aktiviran"></label>
+                </div>
+
+                <div class="d-flex justify-content-end">
+                    <a asp-action="PopisKorisnika" class="btn btn-secondary me-2">Odustani</a>
+                    <button class="btn btn-outline-secondary" type="submit" aria-label="Pretraži">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

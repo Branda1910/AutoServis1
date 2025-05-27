@@ -1,0 +1,57 @@
+﻿@model List<AutoServis.Models.NarudzbaServisa>
+@{
+    ViewData["Title"] = "Narudžbe za potvrdu";
+    Layout = "_Layout";
+}
+
+<div class="container py-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-white d-flex align-items-center">
+            <i class="bi bi-clock-history fs-2 text-warning me-3"></i>
+            <h3 class="mb-0">Narudžbe koje čekaju potvrdu</h3>
+        </div>
+        <div class="card-body">
+            @if (!Model.Any())
+            {
+                <div class="alert alert-info">Trenutno nema narudžbi koje čekaju potvrdu.</div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead class="table-light">
+                            <tr>
+                                <th>#</th>
+                                <th>Email korisnika</th>
+                                <th>Opis problema</th>
+                                <th>Predloženi datum</th>
+                                <th>Datum narudžbe</th>
+                                <th class="text-center">Akcije</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var n in Model)
+                            {
+                                <tr>
+                                    <td>@n.Id</td>
+                                    <td>@n.EmailKorisnika</td>
+                                    <td>@n.OpisProblema</td>
+                                    <td>@n.PredlozeniDatum.ToString("dd.MM.yyyy")</td>
+                                    <td>@(n.DatumNarudzbe?.ToString("dd.MM.yyyy HH:mm") ?? "-")</td>
+                                    <td class="text-center">
+                                        <a asp-action="Potvrdi" asp-route-id="@n.Id" class="btn btn-success btn-sm me-1" title="Potvrdi">
+                                            <i class="bi bi-check-lg"></i>
+                                        </a>
+                                        <a asp-action="Odbij" asp-route-id="@n.Id" class="btn btn-danger btn-sm" title="Odbij">
+                                            <i class="bi bi-x-lg"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+        </div>
+    </div>
+</div>

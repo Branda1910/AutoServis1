@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AutoServis.Models.Korisnik>
+@{
+    ViewData["Title"] = "Popis korisnika";
+    Layout = "_Layout";
+}
+
+<div class="container py-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-white d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center">
+            <h3 class="mb-2 mb-md-0">Popis registriranih korisnika</h3>
+            <form method="get" class="d-flex w-100 w-md-auto" role="search">
+                <div class="input-group">
+                    <input type="text" name="pojam" class="form-control" placeholder="Pretraži po imenu, prezimenu ili emailu" value="@ViewBag.Pojam" />
+                    <button class="btn btn-primary" type="submit">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover table-striped mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Ime</th>
+                            <th>Prezime</th>
+                            <th>Email</th>
+                            <th>Aktiviran</th>
+                            <th class="text-center">Akcije</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var k in Model)
+                        {
+                            <tr>
+                                <td>@k.Ime</td>
+                                <td>@k.Prezime</td>
+                                <td>@k.Email</td>
+                                <td>@(k.Aktiviran ? "Da" : "Ne")</td>
+                                <td class="text-center">
+                                    <a asp-action="Uredi" asp-route-id="@k.Id" class="btn btn-sm btn-warning">
+                                        <i class="bi bi-pencil-square"></i> Uredi
+                                    </a>
+                                    <form asp-action="Obrisi" asp-route-id="@k.Id" method="post" class="d-inline" onsubmit="return confirm('Jeste li sigurni da želite obrisati ovog korisnika?');">
+                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="bi bi-trash"></i> Obriši
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card-footer text-muted text-end">
+            Ukupan broj korisnika: @Model.Count()
+        </div>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Admin prijava";
+    Layout = "_Layout";
+}
+
+<div class="container vh-100 d-flex justify-content-center align-items-center">
+    <div class="card shadow-sm border-danger" style="max-width: 400px; width: 100%;">
+        <div class="card-body">
+            <div class="text-center mb-4">
+                <i class="bi bi-tools fs-1 text-danger"></i>
+                <h3 class="card-title mt-2">Autoserviser Prijava</h3>
+                <p class="text-muted">Unesite vaše podatke</p>
+            </div>
+            <form method="post" novalidate>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email:</label>
+                    <input id="email" name="email" type="email" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label for="lozinka" class="form-label">Lozinka:</label>
+                    <input id="lozinka" name="lozinka" type="password" class="form-control" required />
+                </div>
+                <button type="submit" class="btn btn-danger w-100">Prijavi se</button>
+                @if (ViewBag.Greska != null)
+                {
+                    <div class="alert alert-danger mt-3" role="alert">
+                        @ViewBag.Greska
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+</div>
